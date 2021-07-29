@@ -26,3 +26,7 @@ You can also import it using ES6 desctructuration :
 ```js
 const { WORDS, randomWord } = require("@morpy/hangmanwords");
 ```
+
+## Sources
+
+Base word list comes from [this thread](https://openclassrooms.com/forum/sujet/titre-a-modifier-ressource-pour-le-pendu-33934), but new words will come with updates.
