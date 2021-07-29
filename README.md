@@ -7,7 +7,7 @@ This Node.js module is used to store a list of french words that can be used to 
 To install `@morpy/hangmanwords` in your Node.js application, run this command in a terminal :
 
 ```
-npm install git+https://github.com/morpybot/hangman-words.git
+npm install @morpy/hangmanwords
 ```
 
 ## Usage
